@@ -87,3 +87,7 @@ Le rapport généré est un document CSV. Si le délimiteur utilisé par l’uti
 6. Enregistrer le document.
 
 ---
+
+## Licences
+
+Cette solution est mise à disposition gratuitement pour Mayr-Melnhof Group
